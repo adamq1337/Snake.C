@@ -1,3 +1,3 @@
 # Snake.C
-Snake playable in terminal
+Load in your text editor and get Snake playable in terminal
 
